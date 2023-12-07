@@ -4,7 +4,7 @@ Instructions and guidelines for the COST action InsectAI's Slack channel.
 For comprehensive documentation take a look at the [Slack help pages](https://slack.com/help), this is just a quick guide on how to get going. 
 
 ## How to join the Slack workspace
-*link coming soon...*
+> *link coming soon...*
 
 Slack's sing-up is bit unusual, because it doesn't involve a classic username & password combination. 
 
@@ -25,14 +25,19 @@ Anyone can create a Google Doc and transfer the important info there, then its o
 ## How to enable Google Drive integration in Slack
 Slack has integrations for Google Drive that make it easier to manage sharing permissions and monitor comments directly in Slack. 
 
-[Guide](https://slack.com/help/articles/205875058-Google-Drive-for-Slack)
+To install it please follow the [Guide](https://slack.com/help/articles/205875058-Google-Drive-for-Slack)
 
-> ⚠️ pay attention to what Google account is being linked used! If you have multiple accounts it's easy to choose the wrong one.
+> ⚠️ WARNING: pay attention to what Google account is being linked used! If you have multiple accounts it's easy to choose the wrong one.
 
-### Posting a link to a Google Doc
+### Creating a new Google Doc from Slack
+![](assets/Slack_create_Gdoc.gif)
 
 ### Modifying sharing permissions 
+![](assets/Slack_modify_permissions.gif)
 
-### Managing your notifications
+### Transferring ownership
+![](assets/Slack_transfer_ownership.gif)
 
-### Google Drive files permissions and ownership
+Other useful actions: 
+ - [managing your notifications](https://slack.com/help/articles/205875058-Google-Drive-for-Slack#manage-notifications)
+ - [Google Drive files permissions and ownership]
