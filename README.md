@@ -40,11 +40,14 @@ It's also possible that we might request ownership of certain Google Docs for sa
 
 ## [OPTIONAL] How to enable Google Drive integration in Slack
 Slack has integrations for Google Drive that make it easier to manage sharing permissions and monitor comments directly in Slack. 
+Using the integration is however OPTIONAL, and you can still copy-paste and access Google Docs links without installing it. 
 
-To install it please follow the [Guide](https://slack.com/help/articles/205875058-Google-Drive-for-Slack)
+To install it please follow the [Guide](https://slack.com/help/articles/205875058-Google-Drive-for-Slack). 
 
 > ⚠️ WARNING: pay attention to what Google account is being linked used! If you have multiple accounts it's easy to choose the wrong one.
 
+Below we provide some quick visual guides on how to do certain common operations.
+ 
 ### Creating a new Google Doc from Slack
 ![](assets/Slack_create_Gdoc.gif)
 
